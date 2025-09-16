@@ -8,3 +8,4 @@
 
 print("Hello, world!")
 print("Christian Collier")
+print("my favourite hobby is listening to and making music")
